@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyb3rarjun" alt="cyb3rarjun" /></a> </p>
 
-- 🌱 I’m currently learning **Python ,Web Tech**
+- 🌱 I’m currently learning **Python ,Web Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cyb3rArjun](https://github.com/Cyb3rArjun)
 
