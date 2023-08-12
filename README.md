@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cyb3rArjun</h1>
 <h3 align="center">A passionate Web Pentesting from India</h3>
 
-
-
 - 🌱 I’m currently learning **Python ,Web Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cyb3rArjun](https://github.com/Cyb3rArjun)
